@@ -1,0 +1,10 @@
+.task-box {
+    border: 1px solid rgb(27, 196, 235);
+    background-color: rgb(27, 196, 235);
+    margin: 5px auto;
+    width: 90%;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    cursor: pointer;
+}
