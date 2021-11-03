@@ -7,9 +7,9 @@ const Card = props =>{
                 <div className="col-lg-8">
                     
                         <div className="card">
-                            <h5 className="card-title mt-3">
+                            <h4 className="card-title mt-3">
                                 Todo List
-                            </h5>
+                            </h4>
                             <div className="card-body">
                                 {props.children}
                             </div>
